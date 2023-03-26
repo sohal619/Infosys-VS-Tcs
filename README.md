@@ -1,12 +1,16 @@
 <h1>
-<img src="https://github.com/sohal619/icons-pics/blob/main/jobs.png?raw=true" align="center"> 
+<img src="https://github.com/sohal619/icons-pics/blob/main/stocks.png?raw=true" align="center" width=64 height=64> 
 Infosys VS TCS Stocks Analysis:
 </h1>
 
-* Through this project, providing the job finding solution based on skills.
-* This project is inspired by LinkedIn.
+* Exploratory Data Analysis on TCS & INFOSYS stocks data.
 
-<img src="https://github.com/sohal619/icons-pics/blob/main/LJA%20TECH%20SET.png?raw=true">
+* In this project, I am working with time series data to explain how data looks like over a time period.
+
+* A Comparison between TCS & INFOSYS stocks to under which stocks perform better over time.
+
+
+<img src="https://github.com/sohal619/icons-pics/blob/main/stocks%20tech%20set.png?raw=true">
 
 <h2>
 <img src="https://github.com/sohal619/icons-pics/blob/main/foldergif.gif?raw=true" align="center"> 
