@@ -30,13 +30,13 @@ User's Guide:
 
 <h2>
 <img src="https://github.com/sohal619/icons-pics/blob/main/dot-bricksgif.gif?raw=true" align="center"> 
-User Interface:
+Complete Analysis Here:
 </h2>
 
 click on image to visit:
 
 <a href="https://sohal619-linkedin-job-analysis-user-interfaceindex-sao7ss.streamlit.app/">
-<img src="https://github.com/sohal619/icons-pics/blob/main/LJA.jpg?raw=true" width=478 height=390>
+<img src="https://github.com/sohal619/icons-pics/blob/main/StocksUI.jpg?raw=true">
 </a>
 
 <br>
