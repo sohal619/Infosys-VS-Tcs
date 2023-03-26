@@ -19,23 +19,20 @@ User's Guide:
 
 | Files/Folder               | Description   |
 | -------------              | ------------- |
-| **Web Scrapping**          | In this folder I have provided the python script by which you can scrape data through LinkedIn. I have used selenium library and its component to do all the jobs. <br>***Note: Make sure to enter your LinkedIn credentials in the script.***|
-| **Data**  | In this folder we can find the scraped data and final data that is used in the project.|
-| **Data Cleaning and Model implementation**  | In this folder I have provided the solution of cleaning the scraped data and apply the ML model and created the final_data.csv & store it in the data folder. |
-| **EDA**  | In this directory I have provided an analysis solution about the data and gain some useful insights. |
-| **user_interface**  | In this directory I have provided a python in which I have created UI for the project with the help of streamlit and deployed it on streamlit cloud. |
-| **Presentation Folder**    | You can view all the insights and other information about the project in a PPT file.  |
+| **EDA** | In this folder, I have provided the complete analysis source code in jupyter notebook file(.ipynb) and the corresponding data of the organizations' stocks.|
+| **Dashboard**  | In this folder, we can find the Excel file with an interactive dashboard solution.|
+| **SQL Analysis**  | Coming soon... |
 
 <br>
 
 <h2>
 <img src="https://github.com/sohal619/icons-pics/blob/main/dot-bricksgif.gif?raw=true" align="center"> 
-Complete Analysis Here:
+Complete Deployed Analysis Here:
 </h2>
 
 click on image to visit:
 
-<a href="https://sohal619-linkedin-job-analysis-user-interfaceindex-sao7ss.streamlit.app/">
+<a href="https://sohal619.github.io/Infosys-VS-Tcs/">
 <img src="https://github.com/sohal619/icons-pics/blob/main/StocksUI.jpg?raw=true">
 </a>
 
@@ -47,7 +44,7 @@ Dashboard:
 </h2>
 
 
-Note: This dashboard is created on Excel so, please download the excel to click on the below Image:
+Note: This dashboard is created in Excel so, please download the excel file to click on the below Image:
 <a href="https://github.com/sohal619/Infosys-VS-Tcs/blob/main/dashboard/dashboard.xlsx?raw=true">
 <img src="https://github.com/sohal619/icons-pics/blob/main/stocksdashboard.png?raw=true">
 </a>
