@@ -46,7 +46,8 @@ click on image to visit:
 Dashboard:
 </h2>
 
-click on image to visit:
-<a href="https://sohal619.github.io/LJA-dashboard/">
-<img src="https://github.com/sohal619/icons-pics/blob/main/LJA-DASH.jpg?raw=true">
+
+Note: This dashboard is created on Excel so, please download the excel to click on the below Image:
+<a href="https://github.com/sohal619/Infosys-VS-Tcs/blob/main/dashboard/dashboard.xlsx?raw=true">
+<img src="https://github.com/sohal619/icons-pics/blob/main/stocksdashboard.png?raw=true">
 </a>
