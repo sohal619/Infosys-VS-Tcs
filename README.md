@@ -46,5 +46,5 @@ Dashboard:
 
 Note: This dashboard is created in Excel so, please download the excel file to click on the below Image:
 <a href="https://github.com/sohal619/Infosys-VS-Tcs/blob/main/dashboard/dashboard.xlsx?raw=true">
-<img src="https://github.com/sohal619/icons-pics/blob/main/stocksdashboard.png?raw=true">
+<img src="https://github.com/sohal619/icons-pics/blob/main/Stocksdashboard.png?raw=true">
 </a>
