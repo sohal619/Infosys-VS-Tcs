@@ -12,10 +12,10 @@ Infosys VS TCS Stocks Analysis:
 
 <img src="https://github.com/sohal619/icons-pics/blob/main/stocks%20tech%20set.png?raw=true">
 
-<h2>
-<img src="https://github.com/sohal619/icons-pics/blob/main/foldergif.gif?raw=true" align="center"> 
+<h1>
+<img src="https://github.com/sohal619/icons-pics/blob/main/detective.gif?raw=true" align="center"> 
 User's Guide:
-</h2>
+</h1>
 
 | Files/Folder               | Description   |
 | -------------              | ------------- |
