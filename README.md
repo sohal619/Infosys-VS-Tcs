@@ -28,6 +28,47 @@ User's Guide:
 
 <h2>
 <img src="https://github.com/sohal619/icons-pics/blob/main/detective.gif?raw=true" align="center"> 
+Insights:
+</h2>
+
+* some visualisations after performing Exploratory Data Analysis!
+
+### 1. Price Comparison both of the company
+* Conclusion: TCS stocks are all time on hike than INFOSYS stocks.
+![1](https://user-images.githubusercontent.com/96174306/232291155-99ade56c-93ad-4c7d-baf4-a4f18b76227f.png)
+
+<hr>
+
+### 2. Return rate Comparison both of the company
+* Conclusion: TCS stocks return rate is less than INFOSYS stocks.
+![2](https://user-images.githubusercontent.com/96174306/232291159-e45b5262-4b84-454d-a0d7-887cbcbd2bc0.png)
+
+<hr>
+
+### 3. Volume Comparsion for both stocks
+* Conclusion: Availability of INFOSYS stocks is more than TCS stocks.
+![3](https://user-images.githubusercontent.com/96174306/232291166-a5009eb7-cf0a-4d1a-aa09-1fdf772a4d70.png)
+
+<hr>
+
+### 4. Check fluctuation on daily basis for both stock
+* Conclusion: Fluctuation rate of TCS stocks is higher than INFOSYS stocks.
+![4](https://user-images.githubusercontent.com/96174306/232291197-784f1bb0-b597-4052-a9ab-0b367fa2fa75.png)
+
+<hr>
+
+### 5. Last 50 days trend of both stocks side by side
+
+<h3 align='center'>Explaination of Candlestick chart!<br>
+<img src='https://user-images.githubusercontent.com/96174306/232291171-85fb93a7-9c43-471f-bdbf-ef2df355bb24.png'>
+</h3>
+
+![5](https://user-images.githubusercontent.com/96174306/232291698-f0bc9c1a-2908-4a38-a3c4-1d808b74e60a.png)
+
+<hr>
+
+<h2>
+<img src="https://github.com/sohal619/icons-pics/blob/main/mind-map.gif?raw=true" align="center"> 
 Complete Deployed Analysis Here:
 </h2>
 
