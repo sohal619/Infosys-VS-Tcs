@@ -21,7 +21,8 @@ User's Guide:
 | -------------              | ------------- |
 | **EDA**          | In this folder, I have provided the complete analysis source code in jupyter notebook file(.ipynb) and the corresponding data of the organizations' stocks.|
 | **Dashboard**  | In this folder, we can find the Excel file with an interactive dashboard solution.|
-| **SQL Analysis**  | Coming soon... |
+
+<!-- | **SQL Analysis**  | Coming soon... | -->
 
 <br>
 
